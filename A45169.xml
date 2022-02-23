@@ -1,0 +1,345 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Havel havalim, or, Persecution for conscience sake most vain, cruel, and destructive to the promoters and abettors of it, demonstrated in a discourse from Matth. 2, 16, 17, 18, and humbly presented to the consideration of all, but especially diis terrenis or the magistrates, from Gods Word for their information, beseeching them to permit Jesus Christ the sovereign rule o'er the kingdoms of conscience while he permits  them to rule the bodily state / by John Humphreys.</title>
+            <author>Humphreys, John, b. 1637.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1682</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 29 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A45169</idno>
+            <idno type="STC">Wing H3722</idno>
+            <idno type="STC">ESTC R27617</idno>
+            <idno type="EEBO-CITATION">09981582</idno>
+            <idno type="OCLC">ocm 09981582</idno>
+            <idno type="VID">44448</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A45169)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 44448)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1334:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Havel havalim, or, Persecution for conscience sake most vain, cruel, and destructive to the promoters and abettors of it, demonstrated in a discourse from Matth. 2, 16, 17, 18, and humbly presented to the consideration of all, but especially diis terrenis or the magistrates, from Gods Word for their information, beseeching them to permit Jesus Christ the sovereign rule o'er the kingdoms of conscience while he permits  them to rule the bodily state / by John Humphreys.</title>
+                  <author>Humphreys, John, b. 1637.</author>
+               </titleStmt>
+               <extent>13 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for the author,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1682.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  N.T. --  Matthew II, 16-18.</term>
+               <term>Persecution.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:44448:1"/>
+            <pb facs="tcp:44448:1" rendition="simple:additions"/>
+            <p>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> OR, PERSECUTION FOR CONSCIENCE SAKE, Moſt vain, cruel, and deſtructive to the Pro<g ref="char:EOLhyphen"/>moters and Abettors of it; demonſtrated in a Diſ<g ref="char:EOLhyphen"/>courſe from <hi>Matth.</hi> 2.16, 17, 18. and humbly preſent<g ref="char:EOLhyphen"/>ed to the Conſideration of all, but eſpecially to the <hi>DIIS TERRENIS,</hi> or the Magiſtrates; from Gods Word, for their Information; beſeeching them to permit <hi>Jeſus Chriſt</hi> the Sovereign Rule o'er the Kingdoms of the Conſcience, while he permits them to rule the Bodily State.</p>
+            <q>
+               <p>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </p>
+               <p>Novit Deus vnlnerare ad amorem. Sanctus in ira Dei, multò minùs hominis, emendari non vult, erudiri non vult.</p>
+               <bibl>
+                  <hi>Aug.</hi>
+               </bibl>
+            </q>
+            <p>By <hi>John Humphreys.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for the Author, 1682.</p>
+            <pb facs="tcp:44448:2"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:44448:2" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:44448:3"/>
+            <head>To the Humbled Reader.</head>
+            <lg>
+               <l>THough thou by nature ſinful art,</l>
+               <l>If thou thy ſelf forſake,</l>
+               <l>Chriſt never will from thee depart,</l>
+               <l>But thee from wo will take:</l>
+            </lg>
+            <lg>
+               <l>For he from ſin hath made thee clear,</l>
+               <l>Shedding his Bloud for thee,</l>
+               <l>And in Gods ſight hath made thee dear,</l>
+               <l>Keeping the Law for thee.</l>
+            </lg>
+            <lg>
+               <l>Wilt thou be thankful, then believe</l>
+               <l>That Chriſt did all for thee;</l>
+               <l>Wilt thou be thankful, then believe</l>
+               <l>That Chriſt gave thanks for thee.</l>
+            </lg>
+            <lg>
+               <l>On Angels wings thou ſhalt be brought</l>
+               <l>T' enjoy the Heavenly Crown,</l>
+               <l>Deſerv'd, preſerv'd, by Chriſt for thee</l>
+               <l>In glory and renown.</l>
+            </lg>
+            <lg>
+               <l>Let not that Sin committed be,</l>
+               <l>Of which thou haſt repented,</l>
+               <l>The which God hath remitted thee,</l>
+               <l>But let it be prevented.</l>
+            </lg>
+            <lg>
+               <l>For Faith breeds not ſecurity</l>
+               <l>In ſin to wallow ſtill;</l>
+               <l>But worketh true ſyncerity</l>
+               <l>In Heart, in Mind, and Will.</l>
+            </lg>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:44448:3"/>
+            <head>Perſecution for Conſcience ſake, &amp;c.</head>
+            <epigraph>
+               <q>
+                  <bibl>Matth. 2.16, 17, 18.</bibl>
+                  <p n="16">16. Then Herod ſeeing that he was mocked of the wiſe men was exceed<g ref="char:EOLhyphen"/>ing wroth, and ſent forth and ſlew all the male children that were in Bethlehem, and in all the coſts thereof, from two years old and under, according to the time which he had diligently ſearched out of the wiſe men.</p>
+                  <p n="17">17. Then was that fulfilled which was ſpoken by the prophet Jeremiah, ſaying,</p>
+                  <p n="18">18. In Rama was a voice heard, mourning and weeping, and great howling; Rachel weeping for her children, and would not be com<g ref="char:EOLhyphen"/>forted, becauſe they were not.</p>
+               </q>
+            </epigraph>
+            <p>THis is the firſt Perſecution of Innocent Bloud, commit<g ref="char:EOLhyphen"/>ted upon Infants, in the Infancy of our Lords Incarna<g ref="char:EOLhyphen"/>tion, and in the Infancy of the Fourth or <hi>Roman</hi> Mo<g ref="char:EOLhyphen"/>narchy, in oppoſition to the Kingdom and Reign of Jeſus Chriſt, whoſe Right it is, <hi>Ezek.</hi> 25.27. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>We are killed for thy ſake;</hi> (or as the <hi>Hebrew,</hi>
+               <note place="margin">
+                  <hi>Pſal. 44.22. Super te,</hi> that is, Chriſt is our Rock and Foundation, for and upon whom the Members are ſlain.</note> Upon thee, <hi>Super te;</hi>) all the day long, from the very morning, yea before the dawning of the day, of Antichriſt; and yet <hi>Bleſſed be the rock of our foundation,</hi> 2 <hi>Tim.</hi> 2.19. <hi>Rom.</hi> 8.38, 39. becauſe we are ſlain upon him as our Root, and upon his Death which is our Life; nothing can ſeparate us from his eternal love. In the 13th. Verſe we have the perſuaſion of the Angel to <hi>Joſeph,</hi> to remove the young Child into <hi>Egypt,</hi> as a flaſh of Lightning before the clap of Thunder; Gods Thunders are ſtill attended with his Lightning to give warning, but the Devils are in the dark, that
+<pb n="2" facs="tcp:44448:4"/>he may enſnare us, <hi>Rev.</hi> 8.5. <hi>&amp;</hi> 10.3, 4. For certainly <hi>John</hi> had been enſnared with a mock Revelation of the Dragon from the airy Regions, his Priſon at preſent, had not the Lord Jeſus cau<g ref="char:EOLhyphen"/>tioned him, (ver. 11.) to ſeal his Thunders, and not to write them.</p>
+            <p>Three Points are obvious in our Text; 1. By what occaſion <hi>Herod</hi> was ſo ſet on fire, as to murder the Innocent, namely, be<g ref="char:EOLhyphen"/>cauſe he thought himſelf abuſed, though it was but his Jea<g ref="char:EOLhyphen"/>louſie.</p>
+            <p n="2">2. The Execution of this Maſſacre with the circumſtances;
+<list>
+                  <item>1. Of the place, it was in <hi>Bethlehem,</hi> by Interpretation <hi>The houſe of bread,</hi>
+                     <note place="margin">
+                        <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>
+                     </note> where our Lord was born;</item>
+                  <item>2. Of the perſons, Children of two years old and under.</item>
+               </list>
+            </p>
+            <p n="3">3. The Evangeliſt noteth the fulfilling of a Prophecy anciently foretold by <hi>Jeremiah,</hi> that they might know it was no accidental thing, and that Chriſt and his muſt be from their birth perſecu<g ref="char:EOLhyphen"/>ted unto Bloud, before they ſhould reign in the Kingdom.</p>
+            <p>Firſt, <hi>Herod</hi> thought himſelf mocked, not that he was ſo, but that he deemed himſelf ſo. And hence we learn, That Princes think themſelves abuſed, and that diſparagement is done to the State Royal, if men will not execute their bloudy Deſigns, and wrong their own Souls. <hi>Herod</hi> is mocked, becauſe the wife men will not relate the certainty of Chriſts Birth, that he may murder him. And King <hi>Saul</hi> thinks himſelf contemned, 1 <hi>Sam.</hi> 22.7. becauſe his Footmen would not ſlay the Prieſts of the Lord that had their hand with <hi>David.</hi>
+            </p>
+            <p>Secondly, in that he termeth it Mockery. Note, that the wic<g ref="char:EOLhyphen"/>ked can father that upon others, whereof themſelves are moſt guilty. For the wiſe men, they meant ſimply, but that they were interdicted of God to return to the Court; but <hi>Herod</hi> he mock<g ref="char:EOLhyphen"/>ed with the Lord, for though he knew that this new-born King was to beſet up, and that he muſt reign; yet in deſpight of God he thought either by policy to circumvent it, or by power to withſtand the Ordinance of the Lord, ſcorning at the Oracles of the Prophets, and complaining of Cozenage, when himſelf would
+<pb n="3" facs="tcp:44448:4"/>have cozened the Almighty. Like <hi>Phimbria</hi> of <hi>Rome,</hi> who ha<g ref="char:EOLhyphen"/>ving dangerouſly wounded one, the next day entered an Action againſt the party grieved, becauſe he had received but part of his Blade into his body, and not all. And is it not ſtrange, when <hi>Pharaoh</hi> ſhall call <hi>Moſes</hi> hard hearted, when the Wolf ſhall ac<g ref="char:EOLhyphen"/>cuſe the Lamb, and the Serpent ſay the Dove is too ſubtil, and <hi>Herod</hi> exclaim upon the wiſe men for Mockery, when himſelf nouriſhed ſo foul a vice againſt the higheſt? He was wroth, but not ſimply becauſe the wiſe men returned not, but for his own ſottiſhneſs, that he had not ſent ſome man with them, to have ſeen what was become of the Babe. But thus when Princes make League, and band themſelves againſt the Lord, and contribute towards the afflictions of his Saints, he enſnareth them in their own intentions, and infatuateth their devices, and deſtroyeth the counſel of <hi>Achitophel,</hi> 2 <hi>Sam.</hi> 17.14. <hi>Pſal.</hi> 11.26. With the froward the Lord will deal frowardly: to inſinuate that on others they hate, of which themſelves are guilty, hath and will be the Drag<g ref="char:EOLhyphen"/>gons Logick, till Chriſt hath chained him up.</p>
+            <p>The ſecond point is the Execution of this Butchery; his end was, that if poſſible he might have the bloud of the Babe among the multitude, he ſpares none; and ſtories report, that in this Maſſacre was ſlain his own Son, whereupon <hi>Auguſtus</hi> the Empe<g ref="char:EOLhyphen"/>rour ſaid in deteſtation of his cruelty, That he had rather be <hi>He<g ref="char:EOLhyphen"/>rods</hi> Hog than his Heir.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Doct. </seg>1</label> By which we learn, that the Devil poſſeſſing the heart of a Tyrant or wicked one, makes him execute any thing tend<g ref="char:EOLhyphen"/>ing to the maintainance of his State; though the nature of man abhor effuſion of bloud, or to be checked by their own hearts; for <hi>Herod</hi> knew if Chriſt were born he muſt reign, yet againſt his conſcience he endeavours by deceit or cruelty to ſupplant the de<g ref="char:EOLhyphen"/>crees of God. Thus (<hi>Exod.</hi> 8.4.) <hi>Pharaoh</hi> did ſeek to croſs the command and purpoſe of the Lord, in the delivery of his Ser<g ref="char:EOLhyphen"/>vants, though by many immediate proofs and wonders from Hea<g ref="char:EOLhyphen"/>ven, he ſaw it written as it were on the walls, that the <hi>Iſraelites</hi> muſt depart; and thus <hi>Saul</hi> ſought the Life of <hi>David,</hi> though he
+<pb n="4" facs="tcp:44448:5"/>was told by <hi>Samuel,</hi> 1 <hi>Sam.</hi> 15.28. that the ſtrength of <hi>Iſrael,</hi> that could not lie, had rent the Kingdom from him, and given it to his Neighbour.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Doct. </seg>2</label> Secondly, obſerve hence, that when one way ſucceed<g ref="char:EOLhyphen"/>eth not to theſe Atheiſts, then they ſtrait attempt another. <hi>Pha<g ref="char:EOLhyphen"/>raoh</hi> at the firſt does but exact more labour of the <hi>Iſraelites,</hi> but after he deals with the Midwives, <hi>Exod.</hi> 1.15. to kill them that ſhould be born; and after his malice breaketh out more fiercely into a Proclamation, ver. 22. that the Male born ſhould be caſt into the River. So <hi>Saul</hi> confeſſing, that he knew God would eſta<g ref="char:EOLhyphen"/>bliſh the Kingdom on <hi>David,</hi> 1 <hi>Sam.</hi> 18.17. firſt he thought to en<g ref="char:EOLhyphen"/>ſnare him by his Daughter, Fight thou the Battels of the Lord, and thou ſhalt have my Daughter; but after his Hypocriſie is diſco<g ref="char:EOLhyphen"/>vered, chap. 19.2. making ſolemn Proclamation, Who have I among all my Souldiers, that will do ſo much for me as to kill <hi>Da<g ref="char:EOLhyphen"/>vid?</hi> So that he that could ſpare <hi>Agag</hi> whom he ſhould have killed, would pierce <hi>David</hi> whom he ſhould not kill. So <hi>He<g ref="char:EOLhyphen"/>rod,</hi> when he ſaw he was prevented of his firſt purpoſe, he ſtill travelleth with the ſame miſchief, till he had doubled his cruel<g ref="char:EOLhyphen"/>ty. Such a Fire is Sin to double and increaſe the heat by burn<g ref="char:EOLhyphen"/>ing. And the deferring their accurſed Attempts, which ſhould be as Water to quench them, is as Oyl to inflame them; eſpeci<g ref="char:EOLhyphen"/>ally where the Conſtitution is malicious, and being wrought by the Devils malice, who caſts in freſh poiſon into our hearts, that if we be prevented of one Attempt, we may more violently ſet upon another, <hi>Rev.</hi> 12.12. yea whole Flouds.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Doct. </seg>3</label> Thirdly, obſerve that there is no Edict or Command ſo cruel or execrable againſt Gods Saints, which ſome wicked men will not execute at their Princes Commandment. If <hi>Jeſabel</hi> would have <hi>Naboths</hi> Vineyard, and cannot obtain it without his Life, 1 <hi>Kings</hi> 21.11. ſhe ſhall have Governours to ſerve her turn, that will ſo follow her curſed counſel. When no man will fall upon the Prieſts at the command of <hi>Saul,</hi> 1 <hi>Sam.</hi> 22.17. then will <hi>Doeg</hi> take the Sword and do it, who was an <hi>Edomite,</hi> a per<g ref="char:EOLhyphen"/>fect Hater of the Seed of <hi>Jacob, Rom.</hi> 9. and may have his Name
+<pb n="5" facs="tcp:44448:5"/>from <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> and <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>a Fiſher;</hi> who with their poiſoned Baits angle for the Lives of poor Innocents, in whom the image and nature of the Lamb dwells. <hi>Herod</hi> can here no ſooner mention a Murder, but his Servants will do it; and if he'll be prepared for the Commander, its alſo for the Executioner. Though his act be warranted by Authority, is it in the power of the Prince to bring in a Religion againſt God? Or may they do what they will? God forbid: ſuch an abſolute power may be when the Whore is burnt, <hi>Rev.</hi> 17. by the divided Kingdoms of the <hi>Roman</hi> Empire; and may ariſe out of the bottomleſs pit, <hi>Rev.</hi> 11.7. and ſlay Gods Witneſſes— But let them remember, that when the Witneſſes riſe, and Chriſt their Deliverer comes, and pours out his fifth, ſixth, and ſeventh Vials, that Beaſt and falſe Pro<g ref="char:EOLhyphen"/>phet ſhall be caſt alive into the Lake; <hi>Rev.</hi> 19.20, 21. and their <hi>Generaliſſimo</hi> the Dragon chained up in the bottomleſs pit, <hi>Rev.</hi> 20.3, 4, 5. till Chriſt hath with his new <hi>Jeruſalem</hi> reigned over the Kingdoms of the world, <hi>Dan.</hi> 7.27. If the Prince ſhould command me to burn the Bible, I ought not to do it; for a thing is not of God becauſe the Prince commands it, but becauſe it is of God, therefore ought he to command it. <hi>Cambyſes</hi> King of <hi>Perſia,</hi> inflamed with Inceſt, conſulted with his wiſe men whe<g ref="char:EOLhyphen"/>ther he may lawfully marry his Siſter? They anſwer, they find no ſuch Law to warrant it; but they find another Law, that the King of <hi>Perſia</hi> is without all Law, abſolute in his own will, as were the <hi>Arabians,</hi> and that Beaſt that is ſaid to ariſe (<hi>Rev.</hi> 9.) out of the bottomleſs pit. For as all Lawful Pow<g ref="char:EOLhyphen"/>er is Gods Image, and comes from God;<note place="margin">1 <hi>Cor.</hi> 11.7. <hi>Rom.</hi> 13.4. <hi>Iſa.</hi> 42.8, 79.</note> ſo all Ab<g ref="char:EOLhyphen"/>ſolute Arbitrary Power, (that is onely eſſentially in God) preſumed by Man, is from the Dragon, and not from God, who will not give away his own Prerogative and Glory to any Creature. And thus do Princes Counſellors feed them in their humours, nodding at whatſoever <hi>Auguſtus</hi> will have done. And even ſo miſerable are the times, that men do wait at their Princes mouths, and perform their De<g ref="char:EOLhyphen"/>crees, not ſcanning whether they be grounded upon the Law of
+<pb n="6" facs="tcp:44448:6"/>God, which ought to be the Rule whereat Princes ſhould level their Commandments, and by which Subjects ſhould ſquare their Obedience. For it is not enough to ſlay <hi>Amon,</hi> 2 <hi>Sam.</hi> 13.29. at <hi>Abſaloms</hi> command; neither <hi>Rabſhake</hi> excuſe himſelf, <hi>Iſa.</hi> 36.16. for railing on the living God, though he had the Warrant of the King of <hi>Aſhur</hi> to do it; but in theſe and ſuch like ſins they hazard their own Souls. Wherefore let us keep to the ground that <hi>Ba<g ref="char:EOLhyphen"/>laam</hi> at firſt ſtood on, <hi>Num.</hi> 24.13. <hi>Not for a houſe full of Gold to paſs the commandment of the Lord.</hi> I do not ſay rebell, but obey not againſt the Lords command. Let <hi>Saul</hi> himſelf fall upon the Prieſts, if he will have them ſlain, and let us not aſſiſt him. Let <hi>Jezabel</hi> herſelf ſit in Judgment upon <hi>Naboth,</hi> but let not us con<g ref="char:EOLhyphen"/>demn him. We are bound to do good to the Saints of God, much leſs to perſecute them; and 'tis ſaid in the Goſpel, <hi>Matth.</hi> 24.35, 36. he that clothes a poor Priſoner, clothes the Lord Jeſus. Now what ſhall we ſay then of him that ſtands up like <hi>Tertullus</hi> (<hi>Acts</hi> 24.5.) againſt <hi>Paul,</hi> to plead againſt him, and to reproach him with the name of a peſtilent ſeditious Fellow? For if they ſhall be condemned that have not miniſtred to the needs of the Saints, but have been aſhamed of their bands, <hi>Luke</hi> 16.25. If <hi>Dives</hi> ſhall hang in Hell for not refreſhing <hi>Lazarus</hi> at his Gate, what ſhall become of them that take the bread from <hi>Lazarus,</hi> and put <hi>Paul</hi> into priſon, or elſe enforce Crimes againſt him to re<g ref="char:EOLhyphen"/>tain him in bands? <hi>Judges</hi> 5.23. <hi>Curſed be Meroz, becauſe they helped not the Lord,</hi> nor ſtood in defence of his Truth. <hi>Obadiah</hi> againſt the expreſs command of <hi>Jezabel</hi> (1 <hi>Kings</hi> 18.4.) hideth the Prophets; and <hi>Rahab</hi> (<hi>Joſhua</hi> 2.3.) ventures her life to pre<g ref="char:EOLhyphen"/>ſerve the Spies; and what better Spies can there be than Preach<g ref="char:EOLhyphen"/>ers, that ſtand in the gap between God and us, as did <hi>Moſes;</hi> which watch o'er the Souls of the people, (if they will be obe<g ref="char:EOLhyphen"/>dient to them, as Gods eſpecial command is, 1 <hi>Pet.</hi> 5.5. 1 <hi>Tim.</hi> 5.1, 2, 17, 18.) and ſhew them their way to Heaven, <hi>Exod.</hi> 17.12. <hi>Pſal.</hi> 106.23. <hi>Jonathan</hi> being often incited by his Father to kill <hi>David,</hi> 1 <hi>Sam.</hi> 20.2. proteſts <hi>Davids</hi> innocency; though <hi>Saul</hi> perſuaded him, that <hi>Davids</hi> Glory could not be without <hi>Jona<g ref="char:EOLhyphen"/>thans</hi>
+               <pb n="7" facs="tcp:44448:6"/>ruine, and would not be drawn to do it. And if he would not compaſs ſuch a miſchief at the Edict of <hi>Saul,</hi> which had a threefold force in it, Firſt, as proceeding from his Father; Secondly, from his Sovereign; Thirdly, being joyned with the temptation of a Kingdom: much leſs are we to gratifie the State with the affliction of Gods Saints; for we muſt <hi>rather</hi> (<hi>Acts</hi> 4.19.) <hi>obey God than Man:</hi> Yet diſobey not the Prince, for his Commandment ſtands on theſe two feet, either to do the thing, or ſuſtain the puniſhment for not doing it.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Doct. </seg>4</label> Fourthly, obſerve that as ſoon as Chriſt is born, there is trouble and commotion, civil and forein wars; yet is not Chriſt the cauſe of it, but the wickedneſs and per<g ref="char:EOLhyphen"/>verſneſs of <hi>Herods</hi> heart: For righteouſneſs muſt not yield to iniquity, and Chriſt muſt be born, and being born muſt reign. If he be born in thee, and thy <hi>Herods</hi> curſed, ſubtil, beaſtly, whoriſh Heart; and fleſhly Intereſt, Profit and Plea<g ref="char:EOLhyphen"/>ſure, gilt o'er with a formal whoriſh profeſſion, be ready by ſubtilty or force to murder the Babe and Royal Seed, as certainly thou doſt myſtically as well as <hi>Herod</hi> outwardly; why yet he will eſcape into<note n="*" place="margin">Into <hi>Egypt,</hi> that is, my<g ref="char:EOLhyphen"/>ſtically into dark appear<g ref="char:EOLhyphen"/>ances and wilderneſs con<g ref="char:EOLhyphen"/>dition, <hi>Hoſ. 2.14.</hi> and and there when he hath ſlain thy <hi>Herod,</hi> thy deareſt luſts and fleſhly ſubtil wiſ<g ref="char:EOLhyphen"/>dom, then will he ſpeak comfortably to thee; that is, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> to or in thy Heart and Soul, to thy everlaſting peace and ſatis<g ref="char:EOLhyphen"/>faction for ever.</note> 
+               <hi>Egypt,</hi> and ſtay there till <hi>Herod</hi> be dead; and he will and muſt reign at laſt o'er all that is in thee; or elſe he is never born in thee. And though the Devil rage, and the World ſwell; certain it is there is no ſuch peace as this of Chriſts reigning in thy Soul. It teaches peace between God and Man, between Man and Man, between Man and his inward Soul, and makes the Wolves to be<g ref="char:EOLhyphen"/>come Lambs, and thy Wolfiſh na<g ref="char:EOLhyphen"/>ture to turn to that of the Lambs;
+<pb n="8" facs="tcp:44448:7"/>and cauſes the Lion to lodge with the Lamb. But <hi>Heroa</hi> would have the Goſpel aboliſhed, and Chriſt murdered, which cannot be. Shall <hi>Dagon</hi> yield to the Ark, or the Ark to <hi>Dagon?</hi> 1 <hi>Sam.</hi> 5.3. Shall the 10 Tribes go to <hi>Ju<g ref="char:EOLhyphen"/>da,</hi> or <hi>Juda</hi> to them? <hi>Herod</hi> loves not Chriſt, therefore he murders the Children. If <hi>Herods</hi> Crown cannot ſtand with the Government of Chriſt, well may he harbour Mur<g ref="char:EOLhyphen"/>der in his thoughts againſt him; but it ſhall fall on his own head. For God will watch over his own Son, and fight for his own truth, and preſerve as the Apple of his own eye his elect and truly redemed, who ſhall have Chriſts Image in them, and the Devils defaced. So as where the true Pro<g ref="char:EOLhyphen"/>teſtant Scriptural Religion, and Ju<g ref="char:EOLhyphen"/>ſtification by Chriſts imputed righte<g ref="char:EOLhyphen"/>ouſneſs alone,<note place="margin">Doctrine of Free Juſtifica<g ref="char:EOLhyphen"/>tion in King <hi>Edward</hi> and Queen <hi>Elizabeths</hi> days, eſtabliſhed by Act of Par<g ref="char:EOLhyphen"/>liament, without works, but by Chriſts righteouſneſs im<g ref="char:EOLhyphen"/>puted and received by faith.</note> received by Faith, and declared by good works to men through the Spirit; and where this hath been granted by Parliament, and ſuppreſſed by private command<g ref="char:EOLhyphen"/>ment, there may the Subjects ſtand on the part defenſive, to ward the blow being ſmitten. But if it hath not been eſtabliſhed by publick Authority, then may they not take Arms to ſet it up, though Gods real Truth and Goſpel; but ſuffer for it.</p>
+            <p>Out of the Murder it ſelf we gather, that though many be ſlain, yet Chriſt eſcapeth. And that in the greateſt per<g ref="char:EOLhyphen"/>ſecution, yet Chriſts Religion ſhall never be aboliſhed, be<g ref="char:EOLhyphen"/>cauſe Chriſt liveth: Chriſt lives, and I live; yet not I, but Chriſt in me, <hi>Gal.</hi> 2. When <hi>Jezabel</hi> thought ſhe had had her hands full of Bloud, and had rooted out all the Lords Prophets, and viſibly ſcarce a Face to be ſeen, ſo as <hi>Elijah</hi> thought himſelf to be left alone, 1 <hi>Kings</hi> 19.18. yet ſays God, I have reſerved 7000 that have not bowed a Knee to <hi>Baal.</hi> And when by ſcattering the Sheep, and ſmiting the Shepherd, <hi>Zach.</hi> 13.7. the Devil thought himſelf fluſh;
+<pb n="9" facs="tcp:44448:7"/>and that by Chriſts Sleep in the earth he had utterly ſtung him to deſtruction; then was his Reſurrection moſt glori<g ref="char:EOLhyphen"/>ous, and then did the Churches of Chriſt increaſe daily. For ſuch is the nature of the Goſpel, that the more it is trodden down, the higher it riſeth; and all the Powers of Earth or Hell, that ever ſtood againſt it, have in all Ages, and ever ſhall, be either won by it, or ruined by it. For the more it is maligned, the broader it ſpreadeth; and when it ſeemeth to be dead, then is there moſt life in it.</p>
+            <q>
+               <l>Sanguine fundata, &amp; Eccleſia ſanguine crevit;</l>
+               <l>Sanguine tam illa vicit, ſanguine finis erit.</l>
+            </q>
+            <p>The third point, which is the Prophecy (<hi>Jer.</hi> 31.15.) is to declare the greatneſs of Gods mercy in the delivery of the <hi>Jews,</hi> and ſheweth them that they were like to the <hi>Benja<g ref="char:EOLhyphen"/>mites</hi> or <hi>Iſraelites,</hi> that is, utterly deſtroyed and carried away; inſomuch that if <hi>Rachel,</hi> the Mother of <hi>Benjamin,</hi> could have riſen again to ſeek for her Children, ſhe might have wept for want of them, but ſhe ſhould have found none remaining. This does the Spirit bring in here, as a Butchery foretold, to the end that none might wonder or be offended at it. Though the Saviour of the World ſhould come with Bloud, and cauſe the loſs of a multitude of Children, and himſelf preſerved; to ſhew that Chriſt and his Goſpel is attended with great croſſes and loſſes, yea the deareſt; and yet they that will not leave all for him, are not worthy of him, <hi>Matth.</hi> 10.37. <hi>Luke</hi> 14.28, 29, 30. <hi>Phil.</hi> 3.8, 9. The ſevereſt croſſes, and the loſſes of the profitableſt, and ſweeteſt, and pleaſanteſt things attend Chriſt. If thou wilt have Chriſt for thy Saviour, for thy Lord, for thy King, for thy Husband, for thy all; thou muſt have him alone, he will not admit of any Corrivals at all, he muſt be ſole in thee and over thee; or elſe thy Idol, for thy Idol and he will never brook together, he will ſlay all thy Idols, whether Children, Luſts, Gold, Honour,
+<pb n="10" facs="tcp:44448:8"/>Pleaſure, Profit, or whatſoever; and thou muſt loſe all, <hi>Luke</hi> 14.28, 29, 30, 31, <hi>&amp;c. Matth.</hi> 10. yea Life muſt not be before him. Or elſe like to the <hi>Gadarens,</hi> if thou valueſt thy Swine before him, thy Swine ſhall ſave thee in the day of the Lord, if they can.</p>
+            <p>Laſtly, though <hi>Rachel</hi> loſt her Children, yet ſhe did not loſe her Saviour: Though ſome here will rather loſe Chriſt than their curſed Children, and the Brats of their own bear<g ref="char:EOLhyphen"/>ing and fleſhly fruits; ſuch ſelf-lovers are men, that pro<g ref="char:EOLhyphen"/>feſs Chriſt and hold a ſhadow. But you that willingly loſe for Chriſt, to honour and ſave his Truth, as <hi>Rachel</hi> did her Children, ſhall at laſt have double as Chriſt promiſed, <hi>Mark</hi> 10.29, 30. and mark that word <hi>Jer.</hi> 31.17. where in the capital comfort lies, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.<note n="*" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> Signifies, At the end of the World, in the laſt times of it; that is, in this new ſtate, in Chriſts Kingdom, thou ſhalt ſee them again.</note> 
+               <hi>In tuo noviſſimo ſpes eſt,</hi> There is hope in thy end; that is, in the Reſurrecti<g ref="char:EOLhyphen"/>on and Kingdom of Chriſt ſhe ſhall ſee them that are Gods Elect, and had the Holy Ghoſt, not capable of dying or being ſlain any more, but in full perfection and incorruption, 1 <hi>Cor.</hi> 15. This being believed, it palliates and contemns Death, rather than maketh afraid of Death.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="text">
+            <div n="hebrew" type="prayer">
+               <pb n="11" facs="tcp:44448:8"/>
+               <lg>
+                  <l>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+               </lg>
+            </div>
+            <div n="latin" type="prayer">
+               <head>Pro Rege &amp; Regno Preces.</head>
+               <p>
+                  <hi>O Deus, judicia tua Regi da, &amp; juſtitiam tuam filio Regis. Fac eum populum tuum adjudicandum juſtè, &amp; pauperes tuos jure. Fac tu juſtum temporibus ejus ad ſtorendum, pacis etiam amplitudo donec non ſit Luna. Et dòminabitur à mari uno ad alterum, &amp; à flumine qu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>quo ad fines terrie, fac Jehova. Ad incurvandum ei omnes Reges &amp; Poteſtates, ac omnes gentes ſervient ei. Deus gratiam faciat nobis, &amp; benedicat nobis &amp; regno, &amp; Sponſae Chriſti; illuſtres faciem tuam erga nos maximé.</hi>
+               </p>
+            </div>
+            <div n="english" type="prayer">
+               <head>A Prayer for the King and Kingdom.</head>
+               <p>O God, give thy Judgments to the King, and thy righ<g ref="char:EOLhyphen"/>teouſneſs to the Kings Son. Cauſe him to judge thy people juſtly, and thy poor righteouſly. Let righteouſneſs flou<g ref="char:EOLhyphen"/>riſh in his days, and abundance of peace, while the Church
+<pb n="12" facs="tcp:44448:9"/>endures upon earth. Let him rule from Sea to Sea, and from the Rivers unto the ends of the Earth. Let all Kings and Princes bow before him, and all Nations ſerve him. O God, let thy favour be ſhewn to us; bleſs us and the Kingdom, with the Church of Chriſt, and make thy face to ſhine upon us for ever. <hi>Amen.</hi>
+               </p>
+            </div>
+         </div>
+         <div type="postscript">
+            <head>Poſtſcript.</head>
+            <p>TO all Chriſtian Magiſtrates and Miniſters, the Author of this Book moſt humbly addreſſes himſelf; who acknow<g ref="char:EOLhyphen"/>ledges that he is <hi>Miſiorum poſtremus,</hi> the leaſt of the leaſt. What was ſaid of the King of <hi>Cappadocia</hi> in <hi>Horace,</hi> may be ſaid of <hi>Jeſus</hi> the King of the poor ſuffering Saints, <hi>Mancipiis locuples egit aeris Cappadocum Rex,</hi> He hath many poor ſuffer<g ref="char:EOLhyphen"/>ing Servants, but little Money. Firſt, I humbly crave your pardons for any thing that may ſeem in me preſumptuous, or wherein I have miſſed the truth. Alſo I do proteſt for my ſelf, and I humbly conceive I may for many thouſands more, that it is not in any contempt of the Kings Laws and Authority, that we worſhip God without the Forms and Modes by men impoſed; but truly for conſcience ſake, as fearing the great God, who is ſtill <hi>maxima poteſtas,</hi> the higheſt power. And for my ſelf, ſince the Year <hi>1664</hi> I might have had many Preferments in the Church, as <hi>100</hi> 
+               <abbr>l</abbr> 
+               <hi>per ann.</hi> if I would have conformed, and have under<g ref="char:EOLhyphen"/>went many trying Diſpenſations, both from falſe Friends, falſe Brethren, and private and publick Enemies; which might have provoked me to accept of Honour and Preferment, had not the Word of the Lord and a tender Conſcience ſtood in my way, for which I bleſs the Lord. I acknowledge Chriſts merits and righ<g ref="char:EOLhyphen"/>teouſneſs imputed to us, of mere mercy and divine love, and re<g ref="char:EOLhyphen"/>ceived by the ſaith of the operation of God, for my Juſtification
+<pb n="13" facs="tcp:44448:9"/>and Life; the Holy Spirit within, and the Word without, for the rule of my Life and inherent Sanctification. I acknowledge a Holy Catholick Church, diſperſed militantly through the whole world, which ſhall be gathered together into one, at the ſe<g ref="char:EOLhyphen"/>cond coming of Chriſt. I approve, teach, and practiſe, all con<g ref="char:EOLhyphen"/>ſcientious obedience, to Kings and all Magiſtrates, till Chriſts ſecond coming, before whom the Kings ſhall vail their Crowns. I approve of a regular and Goſpel Miniſtry in the Church, (being my ſelf ordained by Impoſition of Hands in the Church of <hi>Eng<g ref="char:EOLhyphen"/>land</hi>) having the ſpirit of grace, and ordinary acquired gifts, and the Authority of the Spirit by Impoſition of Hands by the Presbytery, <hi>1 Tim. 4.14.</hi> I am not againſt Superintendents, and ſuch Prelacy as <hi>Timothy</hi> and <hi>Titus</hi> had in the Church of Chriſt. I am for Peace, for Liberty of Conſcience according to the Word, for Truth, and His Majeſty's long life and felicity. <hi>Amen.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
